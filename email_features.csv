@@ -1,0 +1,17 @@
+label,word_count,exclamations,money_words,all_caps,link_count,urgency_words
+spam,20,2,4,1,1,2
+spam,20,0,4,1,1,3
+spam,20,2,3,1,1,3
+spam,19,2,3,2,1,2
+spam,19,1,5,0,1,3
+spam,18,2,5,1,1,2
+spam,19,2,4,1,1,3
+spam,17,2,3,2,1,1
+legitimate,25,0,0,1,0,0
+legitimate,18,0,0,1,0,0
+legitimate,17,0,0,1,0,0
+legitimate,22,0,0,1,0,0
+legitimate,21,0,0,3,0,0
+legitimate,22,0,0,0,1,0
+legitimate,18,0,0,1,0,0
+legitimate,20,0,0,0,1,0

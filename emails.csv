@@ -1,0 +1,17 @@
+email,label
+"CONGRATULATIONS! You have won a cash prize worth 500 dollars. Claim now at https://claim.example/prize before it expires!",spam
+"URGENT: Your account qualifies for a bonus of 1000 dollars. Act now at www.bonus.example to collect your cash.",spam
+"FREE offer today! Win a gift card and bonus money. Hurry to https://deals.example/claim before this offer expires!",spam
+"You are a WINNER! A cash prize is waiting. Visit https://rewards.example now and claim your bonus immediately!",spam
+"Limited time: win money and a 250 dollar bonus. Act today at www.cash.example; this offer expires soon!",spam
+"URGENT! Your refund of 800 dollars is ready. Click https://refund.example now to receive your cash prize!",spam
+"Hurry, claim your FREE prize today! Win a bonus worth 500 dollars at https://winner.example before the deadline!",spam
+"FINAL NOTICE! Your cash reward is waiting. Visit www.reward.example immediately to claim your money bonus!",spam
+"Hi team, our project check-in is Thursday at 10 AM. Please review the agenda before the meeting and send me any topics to add.",legitimate
+"Thanks for sending the draft. I added a few notes and will share the revised document this afternoon.",legitimate
+"The library will close at 6 PM on Friday for scheduled maintenance. Regular hours resume Saturday morning.",legitimate
+"Your appointment is confirmed for Tuesday, May 12 at 2:30 PM. Call our office if you need to change the time.",legitimate
+"I attached the notes from today's class. Let me know if you spot anything I should correct before I submit them.",legitimate
+"The monthly report is ready in the shared folder at https://intranet.example/reports. Please take a look when you have time.",legitimate
+"Reminder: the neighborhood cleanup starts Saturday at 9 AM in the park. Gloves and bags will be provided.",legitimate
+"Your order has shipped and should arrive by Wednesday. You can check the delivery status at https://store.example/orders.",legitimate
